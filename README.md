@@ -1,3 +1,9 @@
+[![Latest Stable Version](https://poser.pugx.org/code-wallet/client/v)](//packagist.org/packages/code-wallet/client)
+[![Total Downloads](https://poser.pugx.org/code-wallet/client/downloads)](//packagist.org/packages/code-wallet/client)
+[![Latest Unstable Version](https://poser.pugx.org/code-wallet/client/v/unstable)](//packagist.org/packages/code-wallet/client)
+[![License](https://poser.pugx.org/code-wallet/client/license)](//packagist.org/packages/code-wallet/client)
+[![PHP Version Require](http://poser.pugx.org/code-wallet/client/require/php)](//packagist.org/packages/code-wallet/client)
+
 # Code Wallet PHP SDK
 
 The Code Wallet PHP SDK is a library that empowers PHP developers to easily integrate Code payments into their applications. With just a few lines of code and minimal setup, you can start accepting payments effortlessly.
