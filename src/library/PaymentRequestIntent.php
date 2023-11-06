@@ -62,7 +62,7 @@ class PaymentRequestIntent {
         $amount = $this->options['amount'];
 
         if ($currency === "kin") {
-            $exchangeData = new ExchangeData('kin', 1, $this->convertedAmount, $amount);
+            $exchangeData = new ExchangeData('kin', 1, Kin::fromDecimal($amount)->toQuarks(), $amount);
         } else {
             $exchangeData = new ExchangeDataWithoutRate($currency, $amount);
         }
