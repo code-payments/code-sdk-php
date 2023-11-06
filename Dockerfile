@@ -9,7 +9,6 @@ RUN apt-get update && apt-get install -y \
 && docker-php-ext-install zip \
 && rm -rf /var/lib/apt/lists/*
 
-
 WORKDIR /app
 
 # Install Composer, PHP's package manager
@@ -25,5 +24,4 @@ RUN composer install --no-interaction
 # Copy source code and tests into the container
 COPY src/ /app/src/
 COPY tests/ /app/tests/
-
-CMD ["./vendor/bin/phpunit", "--colors=always", "--verbose", "tests"]
+COPY example/ /app/example/

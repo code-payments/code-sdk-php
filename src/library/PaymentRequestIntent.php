@@ -96,7 +96,7 @@ class PaymentRequestIntent {
     }
 
     public function get_intent_id(): string {
-        return $this->rendezvousKeypair->get_public_key()->to_base58();
+        return $this->rendezvousKeypair->getPublicKey()->toBase58();
     }
 }
 

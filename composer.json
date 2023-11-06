@@ -13,7 +13,8 @@
         "psr-4": {
             "CodeWallet\\Errors\\": "src/errors/",
             "CodeWallet\\Messages\\": "src/messages/",
-            "CodeWallet\\Library\\": "src/library/"
+            "CodeWallet\\Library\\": "src/library/",
+            "CodeWallet\\Client\\": "src/client/"
         }
     },
     "authors": [
