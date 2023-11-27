@@ -6,7 +6,7 @@
 
 ![sdk](https://github.com/code-wallet/code-sdk-php/assets/623790/8e64e8d6-db34-4415-890c-6a3fb2631041)
 
-# Code PHP SDK
+# Code SDK - PHP
 
 The Code Wallet PHP SDK is a library that empowers PHP developers to easily integrate Code payments into their applications. With just a few lines of code and minimal setup, you can start accepting payments effortlessly.
 
