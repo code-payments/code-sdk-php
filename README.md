@@ -17,7 +17,7 @@ See the [documentation](https://code-wallet.github.io/code-sdk/docs/guide/introd
 
 ## Installation
 
-You can install the Code Wallet PHP SDK via Composer:
+You can install the Code PHP SDK via Composer:
 
 ```bash
 composer require code-wallet/client
