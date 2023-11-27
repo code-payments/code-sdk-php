@@ -1,12 +1,11 @@
+<img width="1280" alt="Code SDK - PHP" src="https://github.com/code-payments/code-sdk-php/assets/623790/5ad6e2f6-27cb-44b9-b9fd-97707dd5f8c8">
+
+# Code SDK - PHP
 [![Latest Stable Version](https://poser.pugx.org/code-wallet/client/v)](//packagist.org/packages/code-wallet/client)
 [![Total Downloads](https://poser.pugx.org/code-wallet/client/downloads)](//packagist.org/packages/code-wallet/client)
 [![Latest Unstable Version](https://poser.pugx.org/code-wallet/client/v/unstable)](//packagist.org/packages/code-wallet/client)
 [![License](https://poser.pugx.org/code-wallet/client/license)](//packagist.org/packages/code-wallet/client)
 [![PHP Version Require](http://poser.pugx.org/code-wallet/client/require/php)](//packagist.org/packages/code-wallet/client)
-
-![sdk](https://github.com/code-wallet/code-sdk-php/assets/623790/8e64e8d6-db34-4415-890c-6a3fb2631041)
-
-# Code SDK - PHP
 
 The Code PHP SDK is a library that empowers PHP developers to easily integrate Code payments into their applications. With just a few lines of code and minimal setup, you can start accepting payments effortlessly.
 
