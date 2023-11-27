@@ -8,7 +8,7 @@
 
 # Code SDK - PHP
 
-The Code Wallet PHP SDK is a library that empowers PHP developers to easily integrate Code payments into their applications. With just a few lines of code and minimal setup, you can start accepting payments effortlessly.
+The Code PHP SDK is a library that empowers PHP developers to easily integrate Code payments into their applications. With just a few lines of code and minimal setup, you can start accepting payments effortlessly.
 
 See the [documentation](https://code-wallet.github.io/code-sdk/docs/guide/introduction.html) for detailed information.
 
